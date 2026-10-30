@@ -1,0 +1,92 @@
+// =============================================================================
+// LANTERN MADURAI — WEDDING DATA CONFIGURATION
+// Edit values below to customize the invitation.
+// =============================================================================
+
+window.WEDDING_DATA = {
+  couple: {
+    groom: "Chandan",
+    bride: "Varshini",
+    groomFull: "Chi.Ry. Chandan R.",
+    brideFull: "Chi.Sou. Varshini T.N.",
+    dateDisplay: "29 · 11 · 2026",
+    city: "Bengaluru, Karnataka",
+    blessing: "|| Sri Brahmarambika Sri Mallikarjuna Swamy Prasanna ||",
+    host: "Smt. Dr. Jyothi & Sri Dr. Nagarajaiah",
+    hostAddress: "Basaveshwaranagar, Bengaluru",
+    groomParents: "Smt. Anitha R. & Sri Rajashekar S.",
+    groomAddress: "# 1002, 1st Main Road, BSK 3rd Stage, Bengaluru-560085",
+    awaitingPresence: [
+      "Smt. Dr. Jyothi & Sri Dr. Nagarajaiah",
+      "Smt. Dhakshayani & Sri Supradeep",
+      "Chi. Tarasvin Aaradhya"
+    ]
+  },
+
+  countdown: {
+    targetISO: "2026-11-29T09:00:00+05:30"
+  },
+
+  scratchCard: {
+    day: "Sunday",
+    date: "29",
+    monthYear: "November · 2026",
+    city: "Bengaluru"
+  },
+
+  story: {
+    title: "Two paths, one forever",
+    text: "From chance hellos to a thousand shared dreams, we found home in each other. With joyful hearts, we invite you to witness the beginning of our forever."
+  },
+
+  ceremonyMoment: {
+    captionTitle: "Before forever begins",
+    captionText: "Turmeric on our cheeks, henna on our hands, and every favorite person gathered close."
+  },
+
+  events: [
+    {
+      name: "Haldi Ceremony",
+      date: "28 November 2026",
+      time: "10:00 AM",
+      venue: "Bengaluru, Karnataka",
+      note: "Sunshine, turmeric, and blessings as celebrations begin.",
+      icon: "✦"
+    },
+    {
+      name: "Sangeeth",
+      date: "28 November 2026",
+      time: "6:00 PM",
+      venue: "Bengaluru, Karnataka",
+      note: "An evening of music, dance, and joyous celebration.",
+      icon: "♫"
+    },
+    {
+      name: "Muhurtham",
+      date: "29 November 2026",
+      time: "9:00 AM – 9:50 AM",
+      venue: "Bengaluru, Karnataka",
+      note: "The auspicious moment two families become one.",
+      icon: "❧"
+    }
+  ],
+
+  venue: {
+    title: "Bengaluru",
+    address: "# 1002, 1st Main Road, BSK 3rd Stage, Bengaluru - 560085",
+    mapQuery: "BSK 3rd Stage, Bengaluru, Karnataka"
+  },
+
+  footer: {
+    dateLine: "29 November 2026 · Bengaluru"
+  },
+
+  assets: {
+    video: "./editable/assets/aarav-ananya-opening.mp4",
+    videoPoster: "./editable/assets/entrance-first-frame.png",
+    heroArt: "./editable/assets/invitation-reference.png",
+    ceremonyImage: "./editable/assets/haldi-mehendi.png",
+    footerImage: "./editable/assets/og-aarav-ananya.png"
+  }
+};
+
