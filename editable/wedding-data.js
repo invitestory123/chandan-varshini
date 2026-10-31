@@ -9,7 +9,7 @@ window.WEDDING_DATA = {
     groom: "Chandan",
     brideFull: "Chi.Sou. Varshini T.N.",
     groomFull: "Chi.Ry. Chandan R.",
-    dateDisplay: "",
+    dateDisplay: "29 · 11 · 2026",
     city: "Bengaluru, Karnataka",
     blessing: "|| Sri Brahmarambika Sri Mallikarjuna Swamy Prasanna ||",
     host: "Smt. Dr. Jyothi & Sri Dr. Nagarajaiah",
@@ -87,7 +87,8 @@ window.WEDDING_DATA = {
     videoPoster: "./editable/assets/entrance-first-frame.png",
     heroArt: "./editable/assets/invitation-reference.png",
     ceremonyImage: "./editable/assets/haldi-mehendi.png",
-    footerImage: "./editable/assets/og-aarav-ananya.png"
+    footerImage: "./editable/assets/og-aarav-ananya.png",
+    bgMusic: "./editable/assets/bg-music.mp3"
   }
 };
 
