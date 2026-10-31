@@ -65,16 +65,17 @@ window.WEDDING_DATA = {
       name: "Muhurtham",
       date: "29 November 2026",
       time: "9:00 AM – 9:50 AM",
-      venue: "Bengaluru, Karnataka",
+      venue: "Sambrama By Swanlines, Kaggalipura, Bengaluru",
       note: "The auspicious moment two families become one.",
       icon: "❧"
     }
   ],
 
   venue: {
-    title: "Bengaluru",
-    address: "# 1002, 1st Main Road, BSK 3rd Stage, Bengaluru - 560085",
-    mapQuery: "BSK 3rd Stage, Bengaluru, Karnataka"
+    title: "Sambrama By Swanlines",
+    address: "No 107 & 108, Thittahalli Road, Kaggalipura, Bengaluru - 560082",
+    mapQuery: "Sambrama By Swanlines, No 107 & 108, Thittahalli Road, Kaggalipura, Karnataka 560082",
+    mapUrl: "https://maps.app.goo.gl/CPsxnqP9B9V7WxUy9?g_st=iw"
   },
 
   footer: {
