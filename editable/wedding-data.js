@@ -5,11 +5,11 @@
 
 window.WEDDING_DATA = {
   couple: {
-    groom: "Chandan",
     bride: "Varshini",
-    groomFull: "Chi.Ry. Chandan R.",
+    groom: "Chandan",
     brideFull: "Chi.Sou. Varshini T.N.",
-    dateDisplay: "29 · 11 · 2026",
+    groomFull: "Chi.Ry. Chandan R.",
+    dateDisplay: "",
     city: "Bengaluru, Karnataka",
     blessing: "|| Sri Brahmarambika Sri Mallikarjuna Swamy Prasanna ||",
     host: "Smt. Dr. Jyothi & Sri Dr. Nagarajaiah",
