@@ -12,6 +12,7 @@ window.WEDDING_DATA = {
     dateDisplay: "29 · 11 · 2026",
     city: "Bengaluru, Karnataka",
     blessing: "|| Sri Brahmarambika Sri Mallikarjuna Swamy Prasanna ||",
+    brideParents: "(D/o Smt. Dr. Jyothi & Sri Dr. Nagarajaiah)",
     host: "Smt. Dr. Jyothi & Sri Dr. Nagarajaiah",
     hostAddress: "Basaveshwaranagar, Bengaluru",
     groomParents: "Smt. Anitha R. & Sri Rajashekar S.",
@@ -81,6 +82,14 @@ window.WEDDING_DATA = {
   footer: {
     dateLine: "29 November 2026 · Bengaluru"
   },
+
+  gallery: [
+    { src: "./editable/assets/gallery-1.jpg", caption: "Forever by your side", alt: "Varshini and Chandan by the vintage mirror" },
+    { src: "./editable/assets/gallery-2.jpg", caption: "Every smile tells our story", alt: "Varshini and Chandan smiling portrait" },
+    { src: "./editable/assets/gallery-3.jpg", caption: "Dancing into forever", alt: "Varshini and Chandan dancing outdoors" },
+    { src: "./editable/assets/gallery-4.jpg", caption: "Moments woven in magic", alt: "Varshini and Chandan in grand ballroom" },
+    { src: "./editable/assets/gallery-5.jpg", caption: "Peace and promises", alt: "Varshini and Chandan pre-wedding portrait" }
+  ],
 
   assets: {
     video: "./editable/assets/aarav-ananya-opening.mp4",

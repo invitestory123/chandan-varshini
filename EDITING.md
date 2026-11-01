@@ -27,6 +27,8 @@ All text, dates, events, venue, scratch-card info, and media paths live in:
   - `events[]`: Array of events with `name`, `date`, `time`, `venue`, `note`, `icon`
 - **Venue**:
   - `venue.title`, `venue.address`, `venue.mapQuery`
+- **Gallery**:
+  - `gallery[]`: Array of photo objects with `src`, `caption`, `alt`
 - **Footer**:
   - `footer.dateLine`: Footer date string (e.g. `"14 February 2027 · Madurai"`)
 - **Assets**:
@@ -35,6 +37,7 @@ All text, dates, events, venue, scratch-card info, and media paths live in:
   - `assets.heroArt`: Hero illustration
   - `assets.ceremonyImage`: Ceremony photo
   - `assets.footerImage`: Footer art / OG image
+  - `assets.bgMusic`: Background music MP3 path
 
 ## Replacing Assets
 
@@ -44,6 +47,8 @@ Place customer replacement files in `editable/assets/`:
 - `editable/assets/invitation-reference.png` — Hero illustrated scene
 - `editable/assets/haldi-mehendi.png` — Ceremony photo
 - `editable/assets/og-aarav-ananya.png` — Footer art & social share image
+- `editable/assets/bg-music.mp3` — Background soundtrack
+- `editable/assets/gallery-1.jpg` to `gallery-5.jpg` — Wedding photoshoot gallery photos
 
 ## Testing
 
