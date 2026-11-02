@@ -19,6 +19,7 @@ window.WEDDING_DATA = {
     groomAddress: "# 1002, 1st Main Road, BSK 3rd Stage, Bengaluru-560085",
     awaitingPresence: [
       "Smt. Dr. Jyothi & Sri Dr. Nagarajaiah",
+      "Smt. Anitha R. & Sri Rajashekar S.",
       "Smt. Dhakshayani & Sri Supradeep",
       "Chi. Tarasvin Aaradhya"
     ]
